@@ -1,0 +1,33 @@
+===== RÉSUMÉ DE LA BATAILLE =====
+
+Durée simulée : 38.60 s
+Gagnant : A
+
+---- Composition initiale ----
+Équipe A : 11 unités
+   - 5x Pikeman
+   - 3x Knight
+   - 3x Crossbowman
+Équipe B : 12 unités
+   - 6x Pikeman
+   - 2x Knight
+   - 4x Crossbowman
+
+---- Survivants ----
+Équipe A : 7 unités en vie
+   - 3x Pikeman
+   - 1x Knight
+   - 3x Crossbowman
+
+---- Pertes ----
+Équipe A : 4 unités perdues
+   - 2x Pikeman
+   - 2x Knight
+Équipe B : 12 unités perdues
+   - 6x Pikeman
+   - 2x Knight
+   - 4x Crossbowman
+
+---- Dégâts infligés / subis ----
+Équipe B : dégâts infligés = 381.0, dégâts subis = 693.0, kills = 4
+Équipe A : dégâts infligés = 693.0, dégâts subis = 381.0, kills = 12
